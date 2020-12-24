@@ -1,0 +1,19 @@
+.textEditorContainer {
+    display: inline-block;
+    width: 490px;
+    border: 2px solid rgba(0, 0, 0, 0.4);
+    border-radius: 5px;
+    margin: 10px 20px;
+}
+
+.textEditorTab{
+    margin: 10px 10px;
+}
+
+.textEditor {
+    margin: 0px 20px 10px 20px;
+}
+
+.active {
+    background-color: black;
+}
